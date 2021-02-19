@@ -1,6 +1,8 @@
 ---
-title: " "
-output: html_notebook
+title: ' '
+output:
+  html_document:
+    df_print: paged
 ---
 
 <br> 
